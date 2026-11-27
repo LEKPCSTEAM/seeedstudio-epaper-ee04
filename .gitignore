@@ -3,6 +3,7 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+.claude
 __pycache__
 /tmp
 src/config/Env.h
